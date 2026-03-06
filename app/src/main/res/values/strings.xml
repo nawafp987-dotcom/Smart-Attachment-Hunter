@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">File Recovery Pro</string>
+    <string name="app_description">Multi-Cloud File Recovery Application</string>
+
+    <!-- Main Screen -->
+    <string name="all_files">All Files</string>
+    <string name="starred">Starred</string>
+    <string name="downloaded">Downloaded</string>
+    <string name="search_files">Search files...</string>
+
+    <!-- File Management -->
+    <string name="download">Download</string>
+    <string name="delete">Delete</string>
+    <string name="star">Star</string>
+    <string name="file_size">Size</string>
+    <string name="date_received">Date</string>
+    <string name="from">From</string>
+
+    <!-- Email Accounts -->
+    <string name="add_account">Add Account</string>
+    <string name="link_gmail">Link Gmail</string>
+    <string name="link_outlook">Link Outlook</string>
+    <string name="account_linked">Account linked successfully</string>
+    <string name="account_unlinked">Account removed</string>
+
+    <!-- Filter & Search -->
+    <string name="filter">Filter</string>
+    <string name="search">Search</string>
+    <string name="by_date">By Date</string>
+    <string name="by_type">By Type</string>
+    <string name="by_size">By Size</string>
+    <string name="exclude_duplicates">Exclude Duplicates</string>
+    <string name="apply_filter">Apply Filter</string>
+    <string name="clear_filter">Clear Filter</string>
+
+    <!-- File Types -->
+    <string name="images">Images</string>
+    <string name="videos">Videos</string>
+    <string name="documents">Documents</string>
+    <string name="audio">Audio</string>
+    <string name="archives">Archives</string>
+
+    <!-- Messages -->
+    <string name="no_accounts">No email accounts linked</string>
+    <string name="no_files">No files found</string>
+    <string name="syncing">Syncing...</string>
+    <string name="sync_complete">Sync complete</string>
+    <string name="error_sync">Error during sync</string>
+    <string name="duplicate_detected">Duplicate files detected</string>
+    <string name="file_downloaded">File downloaded</string>
+    <string name="file_deleted">File deleted</string>
+
+    <!-- Settings -->
+    <string name="settings">Settings</string>
+    <string name="storage_quota">Storage Quota</string>
+    <string name="cloud_storage">Cloud Storage</string>
+    <string name="security">Security</string>
+    <string name="about">About</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="terms_of_service">Terms of Service</string>
+</resources>
